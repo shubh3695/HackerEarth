@@ -1,0 +1,7 @@
+Email Search
+
+The algorithm followed in this application is of string matching and various possible answers of same type are saved in HashMap and output is produced accordingly. 
+When the input String is obtained, it is converted to LowerCase to prevent many possibilities like: “Where” can be just reduced to “where” and so on. 
+Initially all eight possible outcomes are marked as “Any” and then accordingly the output of every value is changed on the basis if the possibilities are matched. 
+Eventually all these things are merged into a StringBuilder (for faster processing). And for each input until EOF(end of File) the queries are executed and checked for all possibilities of output. 
+Also, the final output is being saved in the external memory card by a filename “output.txt”.
