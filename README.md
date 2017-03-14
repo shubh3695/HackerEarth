@@ -17,14 +17,8 @@ Subject Any<br>
 CC Any<br>
 This project included training the code to handle all forms of data set.
 <p align = 'center'>
-<img  width = '100' height = '150' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/home.png' />
-</p>
-<p align = 'center'>
-<img width = '100' height = '150' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/pickfile.png' />
-</p>
-<p align = 'center'>
-<img width = '100' height = '150' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/result.png' />
-</p>
-<p align = 'center'>
-<img width = '100' height = '150' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/savedresult.png' />
+<img  width = '200' height = '350' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/home.png' />
+<img width = '200' height = '300' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/pickfile.png'/>
+<img width = '200' height = '250' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/result.png' />
+<img width = '200' height = '250' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/savedresult.png' />
 </p>
