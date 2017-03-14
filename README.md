@@ -21,4 +21,5 @@ This project included training the code to handle all forms of data set.
 <img width = '200' height = '300' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/pickfile.png'/>
 <img width = '200' height = '300' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/result.png' />
 <img width = '200' height = '300' src = 'https://github.com/shubh3695/HackerEarth/blob/master/Screenshots/savedresult.png' />
-</p>
+</p><br>
+Download Demo Version <a href = 'https://github.com/shubh3695/HackerEarth/blob/master/EmailSearchy.apk'>here </a>
